@@ -12,3 +12,4 @@ C:\Users\paulo\OneDrive\Desktop\Programação\AprendendoCSharp\obj\Debug\net9.0\
 C:\Users\paulo\OneDrive\Desktop\Programação\AprendendoCSharp\obj\Debug\net9.0\AprendendoCSharp.pdb
 C:\Users\paulo\OneDrive\Desktop\Programação\AprendendoCSharp\obj\Debug\net9.0\AprendendoCSharp.genruntimeconfig.cache
 C:\Users\paulo\OneDrive\Desktop\Programação\AprendendoCSharp\obj\Debug\net9.0\ref\AprendendoCSharp.dll
+C:\Users\paulo\OneDrive\Desktop\Programação\AprendendoCSharp\obj\Debug\net9.0\AprendendoCSharp.sourcelink.json
